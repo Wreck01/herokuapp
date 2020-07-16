@@ -8,6 +8,13 @@ ul{
     		width: 1000px;
     		margin-bottom: 80px;
     	}
+    	li {
+  opacity: 1.0;
+}
+
+li:hover {
+  opacity: 0.5;
+}
 li{
     		display:inline-block;
     		font-size: 30px;
